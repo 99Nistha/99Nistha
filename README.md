@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything
 -->
 - 🔭 I’m currently a software engineer at JP Morgan and a ex-software engineer Intern at walmart global tech
-- 🌱 I’m currently learning a lots of new technologies
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: [Gmail](nisthaagarwal8@gmail.com), 
                       [LinkedIn](https://www.linkedin.com/in/nistha-agarwal-a40674158/)
 <!--- ⚡ Fun fact: ...-->
