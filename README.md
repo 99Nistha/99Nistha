@@ -10,5 +10,6 @@
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: [Gmail](nisthaagarwal8@gmail.com), 
                       [LinkedIn](https://www.linkedin.com/in/nisthaagarwal/)
+                      [Leetcode](https://leetcode.com/nisthaagarwal/)
 <!--- ⚡ Fun fact: ...-->
 
