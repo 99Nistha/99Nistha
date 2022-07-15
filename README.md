@@ -9,7 +9,7 @@
 - 🔭 Incomming Software Engineer at Apple and I’m currently a software engineer at JP Morgan and a ex-software engineer Intern at walmart global tech
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: [Gmail](nisthaagarwal8@gmail.com), 
-                      [LinkedIn](https://www.linkedin.com/in/nisthaagarwal/)
+                      [LinkedIn](https://www.linkedin.com/in/nisthaagarwal/),
                       [Leetcode](https://leetcode.com/nisthaagarwal/)
 <!--- ⚡ Fun fact: ...-->
 
