@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Java
 - 💬 Ask me about Anything
 -->
-- 🔭 Incomming Software Engineer at Apple and I’m currently a software engineer at JP Morgan and a ex-software engineer Intern at walmart global tech
+- 🔭 I am a Software Engineer at Apple and previously worked as a software engineer at JP Morgan and as software engineer Intern at walmart global tech
 - 🌱 I’m currently learning Spring Boot
 - 👩‍💻 skills: Java, Springboot, Angular, React, Kubernetes, Git, C++
 
